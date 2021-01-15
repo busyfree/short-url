@@ -1,4 +1,4 @@
-package main
+package shor_url
 
 import "testing"
 
