@@ -1,4 +1,4 @@
-package shor_url
+package short_url
 
 import (
 	"errors"
